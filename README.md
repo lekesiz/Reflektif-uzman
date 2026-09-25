@@ -12,6 +12,7 @@ Yaklaşık **677 doğrulanmış kaynak**; başlıklar özgün dilinde bırakılm
 2. [12 haftalık okuma yolu](./OKUMA-YOLU.md) — ürün yargısı için haftada en fazla 3 kaynak; her hafta bir “bunu yapmayacağız” notu
 3. [İçerik indeksi](./icerik-indeks.md) — her kaynağın çalışma dosyasındaki başlık haritası
 4. [icerik/](./icerik/) — kaynak başına içerik: resmi/açık erişim tam metin **veya** telifli eserler için eksiksiz özgün çalışma notu (tez, yöntem, sayılar, sınırlar, Reflektif çıkarımı). Telifli kitap ve ücretli makalelerin birebir kopyası yoktur.
+5. [Kuramsal tez](./TEZ.md) — *Eşleştirmenin Sınırları ve Karar Ortamı* (~55.000 sözcük, 10 bölüm). Bütünleştirici kuramsal derleme; üniversiteye teslim edilmiş bir doktora değil, yeni birincil saha verisi içermez.
 
 ## Konu dosyaları
 
