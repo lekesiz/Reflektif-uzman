@@ -1,0 +1,876 @@
+# İçerik dosyası indeksi
+
+Bu dosya yalnızca başlık haritasıdır. Kaynak içeriği için `references/icerik/<konu>.md` içindeki ilgili `##` bölümünü grep/read ile aç.
+
+Dosyalar büyüktür: tümünü bağlama yükleme. Yazar, yıl veya kaynak numarasıyla grep at, sonra o bölümü oku.
+
+## 01-mesleki-psikoloji-kuramlari.md (1873 KB, 44 kaynak başlığı)
+
+- 1. Parsons, Frank (1909) — *Choosing a Vocation*
+- 2. Holland, John L. (1997) — *Making Vocational Choices: A Theory of Vocational Personalities and Work Environments* (3. bs., 1997)
+- 3. Super, Donald E. (1980) — “A Life-Span, Life-Space Approach to Career Development”
+- 4. Super, Donald E. (1990) — “A Life-Span, Life-Space Approach to Career Development”
+- 5. Gottfredson, Linda S. (1981) — “Circumscription and Compromise: A Developmental Theory of Occupational Aspirations”
+- 6. Dawis, René V. & Lofquist, Lloyd H. (1984) — *A Psychological Theory of Work Adjustment: An Individual-Differences Model and Its Appli...
+- 7. Savickas, Mark L. (2005) — “The Theory and Practice of Career Construction”
+- 8. Lent, Robert W., Brown, Steven D. & Hackett, Gail (1994) — “Toward a Unifying Social Cognitive Theory of Career and Academic Interest,...
+- 9. Mitchell, Kathleen E., Levin, S. Al & Krumboltz, John D. (1999) — “Planned Happenstance: Constructing Unexpected Career Opportunities”
+- 10. Pryor, Robert G. L. & Bright, Jim H. (2011) — *The Chaos Theory of Careers: A New Perspective on Working in the Twenty-First Century*
+- 11. Blustein, David L. (2006) — *The Psychology of Working: A New Perspective for Career Development, Counseling, and Public Policy*
+- 12. Savickas, Mark L. (2019) — *Career Construction Theory*
+- 13. Savickas, Mark L. ve diğerleri (2009) — “Life Designing: A Paradigm for Career Construction in the 21st Century”
+- 14. Guichard, Jean (2009) — “Self-Constructing”
+- 15. Bujold, Charles (2004) — “Constructing Career through Narrative”
+- 16. Hartung, Paul J. (2015) — “The Career Construction Interview”
+- 17. Blustein, David L. (2011) — “A Relational Theory of Working”
+- 18. McMahon, Mary & Patton, Wendy (2019) — “The Systems Theory Framework: A Systems Map for Career Theory, Research and Practice”
+- 19. Savickas, Mark L. & Porfeli, Erik J. (2012) — “Career Adapt-Abilities Scale: Construction, Reliability, and Measurement Equivalence a...
+- 20. Rudolph, Cort W., Lavigne, Kristi N. & Zacher, Hannes (2017) — “Career Adaptability: A Meta-Analysis of Relationships with Measures o...
+- 21. Brown, Steven D. ve diğerleri (2003) — “Critical Ingredients of Career Choice Interventions: More Analyses and New Hypotheses”
+- 22. Nye, Christopher D., Su, Rong, Rounds, James & Drasgow, Fritz (2012) — “Vocational Interests and Performance: A Quantitative Summary ...
+- 23. Whiston, Susan C. ve diğerleri (2017) — “Effectiveness of Career Choice Interventions: A Meta-Analytic Replication and Extension”
+- 24. Koen, Jessie, Klehe, Ute-Christine & Van Vianen, Annelies E. M. (2012) — “Training Career Adaptability to Facilitate a Successful Sch...
+- 25. Gati, Itamar, Krausz, Mina & Osipow, Samuel H. (1996) — “A Taxonomy of Difficulties in Career Decision Making”
+- 26. Tinsley, Howard E. A. (2000) — “The Congruence Myth: An Analysis of the Efficacy of the Person–Environment Fit Model”
+- 27. Gati, Itamar (2000) — “Pitfalls of Congruence Research: A Comment on Tinsley’s ‘The Congruence Myth’”
+- 28. Højdal, Lisbeth (2020) — “Critical Perspectives on the Life-Design Paradigm”
+- 29. Gati, Itamar & Asher, Ilana (2005) — “The PIC Model for Career Decision Making: Prescreening, In-Depth Exploration, and Choice”
+- 30. Patton, Wendy (2019) — “Career Theory for Change: The Influences of Social Constructionism and Constructivism, and Convergence”
+- 31. OECD (2004) — *Career Guidance and Public Policy: Bridging the Gap*
+- 32. OECD (2021) — *Career Guidance for Adults in a Changing World of Work*
+- 33. Robertson, Peter J., Hooley, Tristram & McCash, Phil (Ed.) (2021) — *The Oxford Handbook of Career Development*
+- 34. Athanasou, James A. & Perera, Harsha N. (Ed.) (2019/2020) — *International Handbook of Career Guidance* (2. bs., 2019/2020)
+- 35. Brown, Steven D. & Lent, Robert W. (Ed.) (2020) — *Career Development and Counseling: Putting Theory and Research to Work* (3. bs., 2...
+- 36. National Career Development Association (2024) — *2024 NCDA Code of Ethics*
+- 37. *Journal of Vocational Behavior* (—) —
+- 38. *The Career Development Quarterly* (—) —
+- 39. *International Journal for Educational and Vocational Guidance* (—) —
+- 40. Kuzgun, Yıldız (2022) — *Meslek Rehberliği ve Danışmanlığına Giriş* (8. bs., 2022)
+- 41. Yeşilyaprak, Binnur ve diğerleri (2024) — *Mesleki Rehberlik ve Kariyer Danışmanlığı: Kuramdan Uygulamaya* (16. bs., 2024)
+- 42. Guichard, Jean & Huteau, Michel (2023) — *Psychologie de l’orientation* (2e éd., 2023)
+- 43. Savickas, Mark L. (—) — “Prof Mark Savickas on Life Design” (video)
+- 44. Krumboltz, John D. (—) — “Luck Is No Accident (Part 1 of 3)” (video)
+
+## 02-riasec-holland.md (144 KB, 45 kaynak başlığı)
+
+- 1. Holland, John L. (1959). *A theory of vocational choice.*
+- 2. Holland, John L. (1997). *Making vocational choices: A theory of vocational personalities and work environments* (3rd ed.).
+- 3. Holland, John L. (1996). *Exploring careers with a typology: What we have learned and some new directions.*
+- 4. Gottfredson, Gary D. (1999). *John L. Holland’s contributions to vocational psychology: A review and evaluation.*
+- 5. Nauta, Margaret M. (2010). *The development, evolution, and status of Holland’s theory of vocational personalities: Reflections and fu...
+- 6. Bullock-Yowell, Emily & Reardon, Robert C. (2024). *Holland’s RIASEC Hexagon: A Paradigm for Life and Work Decisions.*
+- 7. Holland, John L., Fritzsche, Barbara A. & Powell, Amy B. (1994). *The Self-Directed Search: Technical manual.*
+- 8. Donnay, David A. C., Morris, Mary L., Schaubhut, Nancy A. & Thompson, Richard C. (2005). *Strong Interest Inventory Manual: Research, ...
+- 9. Lewis, Phil & Rivkin, David B. (1999). *Development of the O*NET Interest Profiler.*
+- 10. Rounds, James, Hoff, Kevin & Lewis, Phil (eds.) (2021). *O*NET Interest Profiler Manual.*
+- 11. Prediger, Dale J. (1982). *Dimensions underlying Holland’s hexagon: Missing link between interests and occupations?*
+- 12. Gati, Itamar (1979). *A hierarchical model for the structure of vocational interests.*
+- 13. Tracey, Terence J. G. & Rounds, James B. (1993). *Evaluating Holland’s and Gati’s vocational-interest models: A structural meta-analy...
+- 14. Rounds, James & Tracey, Terence J. (1996). *Cross-cultural structural equivalence of RIASEC models and measures.*
+- 15. Tracey, Terence J. G. & Rounds, James B. (1995). *The arbitrary nature of Holland’s RIASEC types: A concentric-circles structure.*
+- 16. Su, Rong, Rounds, James & Armstrong, Patrick I. (2009). *Men and things, women and people: A meta-analysis of sex differences in inte...
+- 17. Low, K. S. Douglas, Yoon, Mijung, Roberts, Brent W. & Rounds, James (2005). *The stability of vocational interests from early adolesc...
+- 18. Hoff, Kevin A., Song, Q. Chelsea, Wee, Colin J. M., Phan, Wei Ming Jonathan & Rounds, James (2020). *Interest fit and job satisfactio...
+- 19. Tranberg, Maria, Slane, Steve & Ekeberg, Svein E. (1993). *The relation between interest congruence and satisfaction: A meta-analysis.*
+- 20. de Vries, Nicky, Meeter, Martijn & Huizinga, Mariëtte (2024). *Does interest fit between student and study program lead to better out...
+- 21. Brown, Steven D. & Gore, Paul A. Jr. (1994). *An evaluation of interest congruence indices: Distribution characteristics and measurem...
+- 22. Iachan, Ronald (1984). *A measure of agreement for use with the Holland classification system.*
+- 23. Iachan, Ronald (1990). *Some extensions of the Iachan congruence index.*
+- 24. Kwak, Junkyu Christopher & Pulvino, Charles J. (1982). *A mathematical model for comparing Holland’s personality and environmental co...
+- 25. Spokane, Arnold R., Meir, Elchanan I. & Catalano, Michele (2000). *Person–environment congruence and Holland’s theory: A review and r...
+- 26. Tinsley, Howard E. A. (2000). *The congruence myth: An analysis of the efficacy of the person–environment fit model.*
+- 27. Deng, Chi-Ping, Armstrong, Patrick Ian & Rounds, James (2007). *The fit of Holland’s RIASEC model to US occupations.*
+- 28. Armstrong, Patrick Ian, Day, Susan X., McVay, Jason P. & Rounds, James (2008). *Holland’s RIASEC model as an integrative framework fo...
+- 29. Gutentag, Tony, Gati, Itamar & Shimoni, Aviva (2022). *Evaluating the quality of the list of occupations recommended for further expl...
+- 30. Lent, Robert W., Brown, Steven D. & Hackett, Gail (1994). *Toward a unifying social cognitive theory of career and academic interest,...
+- 31. Fouad, Nadya A. & Dancer, L. Suzanne (1992). *Cross-cultural structure of interests: Mexico and the United States.*
+- 32. Farh, Jiing-Lih, Leong, Frederick T. L. & Law, Kenneth S. (1998). *Cross-cultural validity of Holland’s model in Hong Kong.*
+- 33. Soh, Star & Leong, Frederick T. L. (2001). *Cross-cultural validation of Holland’s theory in Singapore: Beyond structural validity of...
+- 34. Guglielmi, Dina, Fraccaroli, Franco & Pombeni, Maria Luisa (2004). *Les intérêts professionnels selon le modèle hexagonal de Holland:...
+- 35. Muck, Peter M. (2005; çevrimiçi 2006). *EXPLORIX. Deutschsprachige Adaptation und Weiterentwicklung des Self-directed Search nach Hol...
+- 36. Martínez Vicente, José Manuel & Valls Fernández, Federico (2006). *Vocational choice and career planning. Spanish adaptation of Holla...
+- 37. Perkmen, Serkan & Tezci, Erdoğan (2015). *Holland Teorisinin Işığında Meslek Kişiliğinin Ölçülmesi.*
+- 38. Atli, Abdullah & Keldal, Gökay (2017). *Mesleki Kişilik Tipleri Envanterinin Geliştirilmesi.*
+- 39. Demirgil, Zeynep & Erdem, Ramazan (2019). *Meslek ve Kişilik Etkileşiminin Büyük Beşli ve RIASEC Modeli Çerçevesinde Değerlendirilmesi.*
+- 40. Kuzgun, Yıldız (2009). *Meslek Gelişimi ve Danışmanlığı* (3. baskı).
+- 41. AERA, APA & NCME (2014). *Standards for Educational and Psychological Testing.*
+- 42. National Career Development Association (2024). *NCDA Code of Ethics.*
+- 43. National Institute of Corrections & NCDA. *The Career Theory of John Holland Participant’s Curriculum.*
+- 44. *Journal of Vocational Behavior.*
+- 45. *Journal of Career Assessment.*
+
+## 03-big-five-kariyer.md (1314 KB, 48 kaynak başlığı)
+
+- 1. Digman, J. M. (1990). Personality Structure: Emergence of the Five-Factor Model
+- 2. Goldberg, L. R. (1990). An Alternative “Description of Personality”: The Big-Five Factor Structure
+- 3. McCrae, R. R., & John, O. P. (1992). An Introduction to the Five-Factor Model and Its Applications
+- 4. Costa, P. T., Jr., & McCrae, R. R. (1992). Revised NEO Personality Inventory (NEO-PI-R) and NEO Five-Factor Inventory (NEO-FFI): Profe...
+- 5. Widiger, T. A. (Ed.). (2015 çevrimiçi; 2017 basılı). The Oxford Handbook of the Five Factor Model
+- 6. Plaisant, O., Courtois, R., Réveillère, C., Mendelsohn, G. A., & John, O. P. (2010). Validation par analyse factorielle du Big Five In...
+- 7. Soto, C. J., & John, O. P. (2017). Short and Extra-Short Forms of the Big Five Inventory–2: The BFI-2-S and BFI-2-XS
+- 8. Lignier, B., Petot, J.-M., Canada, B., De Oliveira, P., Nicolas, M., Courtois, R., John, O. P., Plaisant, O., & Soto, C. J. (2023). Fa...
+- 9. Courtois, R., Petot, J.-M., Plaisant, O., Allibe, B., Lignier, B., Réveillère, C., Lecocq, G., & John, O. P. (2020). Validation of the...
+- 10. Goldberg, L. R., Johnson, J. A., Eber, H. W., Hogan, R., Ashton, M. C., Cloninger, C. R., & Gough, H. G. (2006). The International Pe...
+- 11. Lee, K., & Ashton, M. C. (2004). Psychometric Properties of the HEXACO Personality Inventory
+- 12. Costa, P. T., Jr., McCrae, R. R., & Kay, G. G. (1995). Persons, Places, and Personality: Career Assessment Using the Revised NEO Pers...
+- 13. Tett, R. P., Jackson, D. N., & Rothstein, M. (1991). Personality Measures as Predictors of Job Performance: A Meta-Analytic Review
+- 14. Barrick, M. R., & Mount, M. K. (1991). The Big Five Personality Dimensions and Job Performance: A Meta-Analysis
+- 15. Hurtz, G. M., & Donovan, J. J. (2000). Personality and Job Performance: The Big Five Revisited
+- 16. Barrick, M. R., Mount, M. K., & Judge, T. A. (2001). Personality and Performance at the Beginning of the New Millennium: What Do We K...
+- 17. Judge, T. A., Higgins, C. A., Thoresen, C. J., & Barrick, M. R. (1999). The Big Five Personality Traits, General Mental Ability, and ...
+- 18. Judge, T. A., Heller, D., & Mount, M. K. (2002). Five-Factor Model of Personality and Job Satisfaction: A Meta-Analysis
+- 19. Sutin, A. R., Costa, P. T., Jr., Miech, R., & Eaton, W. W. (2009). Personality and Career Success: Concurrent and Longitudinal Relations
+- 20. Kristof-Brown, A. L., Zimmerman, R. D., & Johnson, E. C. (2005). Consequences of Individuals’ Fit at Work: A Meta-Analysis of Person–...
+- 21. Törnroos, M., Jokela, M., & Hakulinen, C. (2019). The Relationship Between Personality and Job Satisfaction Across Occupations
+- 22. Zhao, H., & Seibert, S. E. (2006). The Big Five Personality Dimensions and Entrepreneurial Status: A Meta-Analytical Review
+- 23. Aşkun, V., Raghavan, M., Ajanovic, E., Çizel, R., & Wiernik, B. M. (2024). Personality and Job Performance in Türkiye: Psychometric M...
+- 24. Block, J. (1995). A Contrarian View of the Five-Factor Approach to Personality Description
+- 25. Morgeson, F. P., Campion, M. A., Dipboye, R. L., Hollenbeck, J. R., Murphy, K., & Schmitt, N. (2007). Reconsidering the Use of Person...
+- 26. Tett, R. P., & Christiansen, N. D. (2007). Personality Tests at the Crossroads: A Response to Morgeson, Campion, Dipboye, Hollenbeck,...
+- 27. Birkeland, S. A., Manson, T. M., Kisamore, J. L., Brannick, M. T., & Smith, M. A. (2006). A Meta-Analytic Investigation of Job Applic...
+- 28. Pittenger, D. J. (1993). Measuring the MBTI… and Coming Up Short
+- 29. Zárate-Torres, R., & Correa, J. C. (2023). How Good Is the Myers-Briggs Type Indicator for Predicting Leadership-Related Behaviors?
+- 30. Roberts, B. W., & DelVecchio, W. F. (2000). The Rank-Order Consistency of Personality Traits from Childhood to Old Age: A Quantitativ...
+- 31. Soto, C. J., John, O. P., Gosling, S. D., & Potter, J. (2011). Age Differences in Personality Traits from 10 to 65: Big Five Domains ...
+- 32. Atherton, O. E., Sutin, A. R., Terracciano, A., & Robins, R. W. (2021). Stability and Change in the Big Five Personality Traits: Find...
+- 33. Mezquita, L., Bravo, A. J., Morizot, J., Pilatti, A., Pearson, M. R., Ibáñez, M. I., Ortet, G., & Cross-Cultural Addictions Study Tea...
+- 34. Atlı, A. (2017). Five-Factor Personality Traits as Predictor of Career Maturity
+- 35. Horzum, M. B., Ayas, T., & Padır, M. A. (2017). Beş Faktör Kişilik Ölçeğinin Türk Kültürüne Uyarlanması / Adaptation of Big Five Pers...
+- 36. Bacanlı, F., & Sarsıkoğlu, A. F. (2021). Personality Traits as Predictors of Career Adaptability of Young Adults
+- 37. Society for Industrial and Organizational Psychology (SIOP). (2018). Principles for the Validation and Use of Personnel Selection Pro...
+- 38. International Test Commission. (2013). The ITC Guidelines on Test Use (Version 1.2)
+- 39. International Test Commission. (2017). The ITC Guidelines for Translating and Adapting Tests (2nd ed., Version 2.4)
+- 40. National Career Development Association. (2024). NCDA Code of Ethics
+- 41. American Psychological Association. (2017). Ethical Principles of Psychologists and Code of Conduct (2002; 2010 ve 2016 değişiklikleri)
+- 2010 Amendments
+- 2016 Amendment
+- Additional resources
+- Advancing psychology to benefit society and improve lives
+- 42. Journal of Vocational Behavior
+- 43. Journal of Career Assessment
+- 44. Peterson, J. B. (2017). 2017 Personality 14: Introduction to Traits/Psychometrics/The Big 5
+
+## 04-degerler-anlam.md (139 KB, 45 kaynak başlığı)
+
+- 1.1 Schwartz, S. H. (1992) — Universals in the Content and Structure of Values: Theoretical Advances and Empirical Tests in 20 Countries
+- 1.2 Dawis, R. V. & Lofquist, L. H. (1984) — A Psychological Theory of Work Adjustment: An Individual-Differences Model and Its Applications
+- 1.3 Super, D. E. (1970) — Work Values Inventory
+- 1.4 MOW International Research Team (1987) — The Meaning of Working
+- 1.5 Blustein, D. L. (2006) — The Psychology of Working: A New Perspective for Career Development, Counseling, and Public Policy
+- 1.6 Kamiya, M. (1966) — Ikigai ni tsuite (生きがいについて; “ikigai üzerine”)
+- 2.1 Schwartz, S. H. (1994) — Are There Universal Aspects in the Structure and Contents of Human Values?
+- 2.2 Schwartz, S. H. (2012) — An Overview of the Schwartz Theory of Basic Values
+- 2.3 Schwartz, S. H. (1999) — A Theory of Cultural Values and Some Implications for Work
+- 2.4 Ros, M., Schwartz, S. H. & Surkiss, S. (1999) — Basic Individual Values, Work Values, and the Meaning of Work
+- 2.5 Schwartz, S. H. & Bardi, A. (2001) — Value Hierarchies Across Cultures: Taking a Similarities Perspective
+- 2.6 Cieciuch, J., Davidov, E., Vecchione, M. et al. (2014) — The Cross-National Invariance Properties of a New Scale to Measure 19 Basic ...
+- 2.7 Witte, E. H., Stanciu, A. & Boehnke, K. (2020) — A New Empirical Approach to Intercultural Comparisons of Value Preferences Based on ...
+- 2.8 Schwartz, S. H. (2021) — A Repository of Schwartz Value Scales with Instructions and an Introduction
+- 3.1 Dose, J. J. (1997) — Work Values: An Integrative Framework and Illustrative Application to Organizational Socialization
+- 3.2 Jin, J. & Rounds, J. (2012) — Stability and Change in Work Values: A Meta-Analysis of Longitudinal Studies
+- 3.3 Sortheix, F. M., Chow, A. & Salmela-Aro, K. (2015) — Work Values and the Transition to Work Life: A Longitudinal Study
+- 3.4 Porfeli, E. J. (2007) — Work Values System Development During Adolescence
+- 3.5 Daniel, E., Schiefer, D., Möllering, A., Benish-Weisman, M., Boehnke, K. & Knafo, A. (2012) — Value Differentiation in Adolescence: T...
+- 3.6 Fukasawa, M., Watanabe, K., Nishi, D. et al. (2020) — Longitudinal Association Between Adolescent Work Values and Mental Health and W...
+- 4.1 Wrzesniewski, A., McCauley, C., Rozin, P. & Schwartz, B. (1997) — Jobs, Careers, and Callings: People’s Relations to Their Work
+- 4.2 Wrzesniewski, A. & Dutton, J. E. (2001) — Crafting a Job: Revisioning Employees as Active Crafters of Their Work
+- 4.3 Rosso, B. D., Dekas, K. H. & Wrzesniewski, A. (2010) — On the Meaning of Work: A Theoretical Integration and Review
+- 4.4 Steger, M. F., Dik, B. J. & Duffy, R. D. (2012) — Measuring Meaningful Work: The Work and Meaning Inventory (WAMI)
+- 4.5 Bailey, C., Yeoman, R., Madden, A., Thompson, M. & Kerridge, G. (2019) — A Review of the Empirical Literature on Meaningful Work: Pro...
+- 4.6 Dik, B. J. & Duffy, R. D. (2009) — Calling and Vocation at Work: Definitions and Prospects for Research and Practice
+- 4.7 Bunderson, J. S. & Thompson, J. A. (2009) — The Call of the Wild: Zookeepers, Callings, and the Double-Edged Sword of Deeply Meaningf...
+- 4.8 Duffy, R. D., Allan, B. A., Autin, K. L. et al. (2018) — Work as a Calling: A Theoretical Model
+- 4.9 Duffy, R. D., Blustein, D. L., Diemer, M. A. & Autin, K. L. (2016) — The Psychology of Working Theory
+- 4.10 Kono, S., Walker, G. J., Ito, E. & Hagi, Y. (2019) — Theorizing Leisure’s Roles in the Pursuit of Ikigai (Life Worthiness): A Mixed-...
+- 4.11 Sartore, M., Buisine, S., Ocnarescu, I. & Joly, L.-R. (2023) — An Integrated Cognitive-Motivational Model of Ikigai (Purpose in Life...
+- 5.1 Morin, E. M. & Gagné, C. (2009) — Donner un sens au travail : promouvoir le bien-être psychologique
+- 5.2 Patillon, T.-V., Lhotellier, L., Pelayo, F. et al. (2015) — Sens de la vie, sens du travail et orientation professionnelle : un dispo...
+- 5.3 Gros, M.-H. & Wach, M. (2013) — Intérêt des valeurs, valeurs et intérêts dans un bilan d’orientation
+- 5.4 Busque-Carrier, M., Ratelle, C. F. & Duchesne, S. (2023) — French Validation of the Twenty-Item Value Inventory / Validation de la ve...
+- 6.1 Kuşdil, M. E. & Kağıtçıbaşı, Ç. (2000) — Türk Öğretmenlerin Değer Yönelimleri ve Schwartz Değer Kuramı
+- 6.2 Akın, A., Hamedoğlu, M. A., Kaya, Ç. & Sarıçam, H. (2013) — Turkish Version of the Work and Meaning Inventory (WAMI): Validity and Re...
+- 6.3 Afacan Fındıklı, M., Keleş, H. N. & Afacan, C. (2017) — İşin Anlamı Kavramı ve Tercüme Bir Ölçeğin Türkçe’de Geçerlik ve Güvenirlik A...
+- 6.4 Alparslan, A. M., Polatcı, S. & Yastıoğlu, S. (2021) — Yaşamın-İşin Anlam Kaynakları ve İyi Oluş İlişkisi Üzerine Bir Araştırma
+- 7.1 Schwartz, S. H. (2003) — A Proposal for Measuring Value Orientations Across Nations
+- 7.2 Journal of Vocational Behavior
+- 7.3 Journal of Cross-Cultural Psychology
+- 7.4 L’orientation scolaire et professionnelle
+- 8.1 European Social Survey & Shalom H. Schwartz (2021) — The Human Value Scale – Webinar
+- 8.2 Amy Wrzesniewski (2018) — Finding Your Calling at Work
+
+## 05-kisi-cevre-uyumu.md (86 KB, 46 kaynak başlığı)
+
+- 1. Holland, John L. (1997) — *Making vocational choices: A theory of vocational personalities and work environments* (3rd ed.)
+- 2. Dawis, René V. & Lofquist, Lloyd H. (1984) — *A Psychological Theory of Work Adjustment: An Individual-Differences Model and Its Appli...
+- 3. Edwards, Jeffrey R., Caplan, Robert D. & Harrison, R. Van (1998) — “Person-Environment Fit Theory: Conceptual Foundations, Empirical E...
+- 4. Kristof, Amy L. (1996) — “Person-Organization Fit: An Integrative Review of Its Conceptualizations, Measurement, and Implications”
+- 5. Chatman, Jennifer A. (1989) — “Improving Interactional Organizational Research: A Model of Person-Organization Fit”
+- 6. Schneider, Benjamin, Goldstein, Harold W. & Smith, D. Brent (1995) — “The ASA Framework: An Update”
+- 7. Cable, Daniel M. & Judge, Timothy A. (1996) — “Person–Organization Fit, Job Choice Decisions, and Organizational Entry”
+- 8. Judge, Timothy A. & Cable, Daniel M. (1997) — “Applicant Personality, Organizational Culture, and Organization Attraction”
+- 9. Kristof-Brown, Amy L. (2000) — “Perceived Applicant Fit: Distinguishing Between Recruiters’ Perceptions of Person-Job and Person-Organ...
+- 10. Cable, Daniel M. & DeRue, D. Scott (2002) — “The Convergent and Discriminant Validity of Subjective Fit Perceptions”
+- 11. Cable, Daniel M. & Edwards, Jeffrey R. (2004) — “Complementary and Supplementary Fit: A Theoretical and Empirical Integration”
+- 12. Kristof-Brown, Amy L. & Guay, Russell P. (2011) — “Person–Environment Fit”
+- 13. Edwards, Jeffrey R. (2008) — “Person–Environment Fit in Organizations: An Assessment of Theoretical Progress”
+- 14. van Vianen, Annelies E. M. (2018) — “Person–Environment Fit: A Review of Its Basic Tenets”
+- 15. Kristof-Brown, Amy, Schneider, Benjamin & Su, Rong (2023) — “Person-Organization Fit Theory and Research: Conundrums, Conclusions, an...
+- 16. Barrick, Murray R. & Mount, Michael K. (1991) — “The Big Five Personality Dimensions and Job Performance: A Meta-Analysis”
+- 17. Kristof-Brown, Amy L., Zimmerman, Ryan D. & Johnson, Erin C. (2005) — “Consequences of Individuals’ Fit at Work: A Meta-Analysis of P...
+- 18. Verquer, Michelle L., Beehr, Terry A. & Wagner, Stephen H. (2003) — “A Meta-Analysis of Relations Between Person–Organization Fit and...
+- 19. Hoffman, Brian J. & Woehr, David J. (2006) — “A Quantitative Review of the Relationship Between Person–Organization Fit and Behaviora...
+- 20. Oh, In-Sue, Guay, Russell P., Kim, Kwanghyun, Harold, Crystal M., Lee, Jong-Hyun, Heo, Chang-Goo & Shin, Kwang-Hee (2014) — “Fit Happ...
+- 21. Andela, Marie & van der Doef, Margot (2019) — “A Comprehensive Assessment of the Person–Environment Fit Dimensions and Their Relation...
+- 22. Boon, Corine & Biron, Michal (2016) — “Temporal Issues in Person–Organization Fit, Person–Job Fit and Turnover: The Role of Leader–Me...
+- 23. Tett, Robert P. & Burnett, Dawn D. (2003) — “A Personality Trait-Based Interactionist Model of Job Performance”
+- 24. Prediger, Dale J. (1982) — “Dimensions Underlying Holland’s Hexagon: Missing Link Between Interests and Occupations?”
+- 25. Edwards, Jeffrey R. (1991) — “Person-Job Fit: A Conceptual Integration, Literature Review, and Methodological Critique”
+- 26. Edwards, Jeffrey R. & Parry, Mark E. (1993) — “On the Use of Polynomial Regression Equations as an Alternative to Difference Scores i...
+- 27. Al-Otaibi, Shaha T. & Ykhlef, Mourad (2012) — “A Survey of Job Recommender Systems”
+- 28. de Ruijt, Corné & Bhulai, Sandjai (2021) — “Job Recommender Systems: A Review”
+- 29. Çelik Ertuğrul, Duygu & Bitirim, Selin (2025) — “Job Recommender Systems: A Systematic Literature Review, Applications, Open Issues, ...
+- 30. European Commission (2025) — “European Skills/Competences, Qualifications and Occupations (ESCO)”
+- 31. O*NET Resource Center (2025) — “The O*NET® Content Model”
+- 32. Barocas, Solon & Selbst, Andrew D. (2016) — “Big Data’s Disparate Impact”
+- 33. Ajunwa, Ifeoma (2020) — “The Paradox of Automation as Anti-Bias Intervention”
+- 34. Raghavan, Manish, Barocas, Solon, Kleinberg, Jon & Levy, Karen (2020) — “Mitigating Bias in Algorithmic Hiring: Evaluating Claims and...
+- 35. Society for Industrial and Organizational Psychology (SIOP) (2018) — *Principles for the Validation and Use of Personnel Selection Pr...
+- 36. Society for Industrial and Organizational Psychology (SIOP) (2023) — *Considerations and Recommendations for the Validation and Use o...
+- 37. National Institute of Standards and Technology (NIST) (2023) — *Artificial Intelligence Risk Management Framework (AI RMF 1.0)*
+- 38. European Union (2024) — *Regulation (EU) 2024/1689 Laying Down Harmonised Rules on Artificial Intelligence (Artificial Intelligence A...
+- 39. U.S. Equal Employment Opportunity Commission (EEOC) (2007, güncel rehber) — “Employment Tests and Selection Procedures”
+- 40. Gürlek, Mert (2020) — “Kişi-Çevre Uyumu ve Kariyer Tatmini Arasındaki İlişkilerin Modellenmesi”
+- 41. Kızrak, Meral & Güner Kibaroğlu, Gamze (2025) — “Kişi İş Uyumu (Person-Job Fit) Ölçeği’nin Türkçeye Uyarlanması”
+- 42. Deschênes, Andrée-Anne (2023) — “L’adéquation personne/environnement sous la lentille des professionnels en gestion des ressources hu...
+- 43. *Personnel Psychology*
+- 44. *Journal of Vocational Behavior*
+- 45. *Journal of Career Assessment*
+- Kaynaklar arası zorunlu ürün sentezi
+
+## 06-psikometri-etik.md (2411 KB, 55 kaynak başlığı)
+
+- 1. Kurum belirtilmemiş (1999) — Test Theory: A Unified Treatment
+- 2. Ronald K. Hambleton, Peter F. Merenda, Charles D. Spielberger (2005) — Adapting Psychological and Educational Tests for Cross-Cultural...
+- 3. Kurum belirtilmemiş (2011) — Statistical Approaches to Measurement Invariance
+- 4. Kurum belirtilmemiş (1997) — Making Vocational Choices: A Theory of Vocational Personalities and Work Environments (3rd ed.)
+- 5. W. Bruce Walsh, Mark L. Savickas, Paul J. Hartung (2005) — Handbook of Vocational Psychology: Theory, Research, and Practice (3rd ed.)
+- 6. James A. Athanasou, Harsha N. Perera (2020) — International Handbook of Career Guidance
+- 7. Lee J. Cronbach, Paul E. Meehl (1955) — Construct Validity in Psychological Tests
+- 8. Kurum belirtilmemiş (1995) — Validity of Psychological Assessment: Validation of Inferences From Persons’ Responses and Performances a...
+- 9. Kurum belirtilmemiş (2013) — Validating the Interpretations and Uses of Test Scores
+- 10. Denny Borsboom, Gideon J. Mellenbergh, Jaap van Heerden (2004) — The Concept of Validity
+- 11. Fons J. R. van de Vijver, Ronald K. Hambleton (1996) — Translating Tests: Some Practical Guidelines
+- 12. Robert J. Vandenberg, Charles E. Lance (2000) — A Review and Synthesis of the Measurement Invariance Literature: Suggestions, Practic...
+- 13. Terence J. G. Tracey, James B. Rounds (1993) — Evaluating Holland’s and Gati’s Vocational-Interest Models: A Structural Meta-Analysis
+- 14. Alexis Hanna, James Rounds (2020) — How Accurate Are Interest Inventories? A Quantitative Review of Career Choice Hit Rates
+- 15. Kurum belirtilmemiş (2009) — On the Use, the Misuse, and the Very Limited Usefulness of Cronbach’s Alpha
+- 16. Kurum belirtilmemiş (2018) — Thanks Coefficient Alpha, We’ll Take It From Here
+- 17. Kurum belirtilmemiş (2005) — On Construct Validity: Issues of Method and Measurement
+- 18. Nadya A. Fouad, Cindy M. Walker (2005) — Cultural Influences on Responses to Items on the Strong Interest Inventory
+- 19. Chu Chu, Mary T. Russell, Kevin A. Hoff, Wei Ming Jonathan Phan, James Rounds (2022) — What Do Interest Inventories Measure? The Conv...
+- 20. Robert R. McCrae, Paul T. Costa Jr. (1989) — Reinterpreting the Myers-Briggs Type Indicator From the Perspective of the Five-Factor M...
+- 21. Kurum belirtilmemiş (1993) — Measuring the MBTI…And Coming Up Short
+- 22. Lillian T. Eby, C. Douglas Johnson, Joyce E. A. Russell (1998) — A Psychometric Review of Career Assessment Tools for Use With Divers...
+- 23. Kurum belirtilmemiş (2014) — Standards for Educational and Psychological Testing
+- 24. International Test Commission; hazırlanmasında Dave Bartram (2001) — International Guidelines for Test Use
+- 25. International Test Commission (2017) — The ITC Guidelines for Translating and Adapting Tests (Second Edition)
+- 26. Ana Hernández, María Dolores Hidalgo, Ronald K. Hambleton, Juana Gómez-Benito (2020) — International Test Commission Guidelines for T...
+- 27. American Psychological Association (2017) — Ethical Principles of Psychologists and Code of Conduct
+- 28. American Psychological Association (2020) — APA Guidelines for Psychological Assessment and Evaluation
+- AUTHOR’S NOTE
+- TABLE OF CONTENTS
+- INTRODUCTION
+- COMPETENCE
+- PSYCHOMETRIC AND MEASUREMENT KNOWLEDGE
+- SELECTION, ADMINISTRATION, AND SCORING OF TESTS
+- DIVERSE, UNDERREPRESENTED, AND VULNERABLE POPULATIONS
+- TRAINING AND SUPERVISORY QUALIFICATIONS AND ROLE
+- TECHNOLOGY
+- REFERENCES
+- 29. American Counseling Association (2014) — ACA Code of Ethics
+- 30. National Career Development Association (2024) — 2024 NCDA Code of Ethics
+- 31. Buros Center for Testing; 21. baskı editörleri Janet F. Carlson, Kurt F. Geisinger, Jessica L. Jonson (2021) — Mental Measurements Ye...
+- 32. James Rounds, Kevin Hoff, Phil Lewis (2021) — O*NET Interest Profiler Manual
+- 33. Samuel M. Turner, Stephen T. DeMers, Heather Roberts Fox, Geoffrey M. Reed (2001) — APA’s Guidelines for Test User Qualifications: An...
+- 34. Kurum belirtilmemiş (2005) — Sosyal ve Davranışsal Ölçümlerde Güvenilirlik ve Geçerlilik
+- 35. Ronald K. Hambleton, Peter F. Merenda, Charles D. Spielberger (2017) — Eğitimde ve Psikolojide Kullanılan Testlerin Kültürlerarası De...
+- 36. Ezgi Mor Dirlik, Nizamettin Koç (2017) — The Analysis of the Psychological Tests Using in Educational Institutions According to the T...
+- 37. Türk Psikolojik Danışma ve Rehberlik Derneği (2021) — Türk PDR Derneği Psikolojik Danışma Etik Kodları
+- 38. Commission Nationale Consultative de Déontologie des Psychologues (CNCDP) (2012) — Code de déontologie des psychologues (2012)
+- 39. Claire S. Johnston, Jean-Paul Broonen, Sarah D. Stauffer, Armanda Hamtiaux, Jacques Pouyaud, Gregory Zecca, Claude Houssemand, Jérôme...
+- 40. International Test Commission; Taylor & Francis (2001) — International Journal of Testing
+- 41. American Psychological Association (yıl belirtilmemiş) — Psychological Assessment
+- 42. European Association of Psychological Assessment; Hogrefe (yıl belirtilmemiş) — European Journal of Psychological Assessment
+- 43. Association of Assessment and Research in Counseling (AARC), American Counseling Association; Taylor & Francis (yıl belirtilmemiş) — ...
+- 44. Suzanne Lane; American Educational Research Association (2014) — Suzanne Lane Discusses the New Edition of Testing Standards
+- 45. International Test Commission ve Indonesian Psychometric Association (2023) — ITC Webinar: Understanding the Fundamentals of Measurem...
+
+## 07-yapay-zeka-kariyer.md (109 KB, 44 kaynak başlığı)
+
+- 1. Holland, John L. (1997) — Making Vocational Choices: A Theory of Vocational Personalities and Work Environments (3rd ed.)
+- 2. Lent, Robert W., Steven D. Brown ve Gail Hackett (1994) — Toward a Unifying Social Cognitive Theory of Career and Academic Interest, C...
+- 3. Hooley, Tristram, Ronald G. Sultana ve Rie Thomsen (ed.) — Career Guidance for Social Justice: Contesting Neoliberalism
+- 4. Sampson, James P., Jaana Kettunen ve Raimo Vuorinen (2020) — The Role of Practitioners in Helping Persons Make Effective Use of Inform...
+- 5. Watts, A. G. (1986) — The Role of the Computer in Careers Guidance
+- 6. Sharf, Richard S. (1985) — Artificial Intelligence: Implications for the Future of Counseling
+- 7. Fulmer, Robert (2019) — Artificial Intelligence and Counseling: Four Levels of Implementation
+- 8. Whiston, Susan C., Lauren Wright ve diğerleri (2017) — Effectiveness of Career Choice Interventions: A Meta-analytic Replication and E...
+- 9. Taveira, Maria do Céu ve Ana Daniela Silva (2026) — Applications of Artificial Intelligence in Career Guidance and Counseling: A Syste...
+- 10. Sarmurzin, Yerbol S. ve diğerleri (2026) — Implementation of AI in Career Counselling for University Students: A Systematic Review
+- 11. Muhammad, Rifqi (2023) — Barriers and Effectiveness to Counselling Careers with Artificial Intelligence: A Systematic Literature Review
+- 12. Westman, Stina ve diğerleri (2021) — Artificial Intelligence for Career Guidance – Current Requirements and Prospects for the Future
+- 13. Suresh, Nalina, Nkandu Mukabe, Valerianus Hashiyana, Anton Limbo ve Aina Hauwanga (2022) — Career Counseling Chatbot on Facebook Mess...
+- 14. D’Silva, Godson, Megh Jani, Vipul Jadhav, Amit Bhoir ve Prithvi Amin (2020) — Career Counselling Chatbot Using Cognitive Science and ...
+- 15. Han, Hyerim, Bogyeom Park ve Kyoungwon Seo (2025) — A Self-Determination Theory-based Career Counseling Chatbot: Motivational Interac...
+- 16. Lee, DongSeop, MyoungHee Kim ve IlKang Na (2018) — Artificial Intelligence Based Career Matching
+- 17. Guleria, Pratiyush ve Manu Sood (2023) — Explainable AI and Machine Learning: Performance Evaluation and Explainability of Classifier...
+- 18. José-García, Alberto ve diğerleri (2022) — C3-IoC: A Career Guidance System for Assessing Student Skills using Machine Learning and N...
+- 19. Carson, A. D. ve diğerleri (1999) — Modeling Career Counselor Decisions with Artificial Neural Networks: Predictions of Fit across a ...
+- 20. Crowley, Thomas (1992) — Computer-Aided Careers Guidance: An Investigation Involving an Artificial System
+- 21. Hendahewa, Chatura ve diğerleri (2006) — Artificial Intelligence Approach to Effective Career Guidance
+- 22. Zhang, H. ve Z. Zheng (2022) — Application and Analysis of Artificial Intelligence in College Students’ Career Planning and Employmen...
+- 23. Barocas, Solon ve Andrew D. Selbst (2016) — Big Data’s Disparate Impact
+- 24. Selbst, Andrew D., Danah Boyd, Sorelle A. Friedler, Suresh Venkatasubramanian ve Janet Vertesi (2019) — Fairness and Abstraction in S...
+- 25. Buolamwini, Joy ve Timnit Gebru (2018) — Gender Shades: Intersectional Accuracy Disparities in Commercial Gender Classification
+- 26. Fabris, Alessandro ve diğerleri (2025) — Fairness and Bias in Algorithmic Hiring: A Multidisciplinary Survey
+- 27. Bender, Emily M., Timnit Gebru, Angelina McMillan-Major ve Shmargaret Shmitchell (2021) — On the Dangers of Stochastic Parrots: Can L...
+- 28. Weidinger, Laura ve diğerleri (2022) — Ethical and Social Risks of Harm from Language Models
+- 29. Ji, Ziwei ve diğerleri (2023) — Survey of Hallucination in Natural Language Generation
+- 30. OECD (2021) — Career Guidance for Adults in a Changing World of Work
+- 31. OECD (2024–güncel) — Observatory on Digital Technologies in Career Guidance for Youth (ODiCY)
+- 32. OECD (2023) — OECD Employment Outlook 2023: Artificial Intelligence and the Labour Market
+- 33. Cedefop (2025) — Skills Empower Workers in the AI Revolution: First Findings from Cedefop’s AI Skills Survey
+- 34. National Institute of Standards and Technology (NIST) — Artificial Intelligence Risk Management Framework (AI RMF 1.0)
+- 35. UNESCO (2021; web kaydı 2022) — Recommendation on the Ethics of Artificial Intelligence
+- 36. European Commission, Directorate-General for Education, Youth, Sport and Culture (2022) — Ethical Guidelines on the Use of Artificial...
+- 37. IAEVG (2024) — The Role of Artificial Intelligence (AI) in Career, Educational and Vocational Guidance: Opportunities and Challenges
+- 38. National Career Development Association (NCDA) — Framework for Ethical and Effective AI Use in Career Services
+- 39. National Career Development Association (NCDA) — NCDA Code of Ethics
+- 40. Özdoğan, Hatice Kübra ve Nurten Karacan Özdemir (2023) — 21. Yüzyılda Kariyer Psikolojik Danışmanlığı ve Yapay Zeka Uygulamaları
+- 41. Schnepfleitner, Sabine; Fransızca çeviri/editörlük EPALE (2024) — Intelligence artificielle et orientation professionnelle – aperçu d...
+- 42. Weber, Peter C. ve Bernd-Joachim Ertelt / Hochschule der Bundesagentur für Arbeit (2021–2025 proje; sunum 2023) — Künstliche Intellig...
+- 43. Alejandro Jaramillo, Sandra Yolanda (2024) — Orientación Vocacional y Profesional: La Inteligencia Artificial y su impacto en la Educ...
+- 44. Moore, Richard, Abdel-Karim Al-Tamimi ve Elizabeth Freeman (2024) — Investigating the Potential of a Conversational Agent (Phyllis) t...
+
+## 08-fransa-oryantasyon.md (2972 KB, 43 kaynak başlığı)
+
+- 1. Pierre Bourdieu & Jean-Claude Passeron (1964) — Les Héritiers. Les étudiants et la culture
+- 2. Pierre Bourdieu & Jean-Claude Passeron (1970) — La Reproduction. Éléments pour une théorie du système d’enseignement
+- 3. François Dubet (2004) — L’École des chances. Qu’est-ce qu’une école juste ?
+- 4. Marie Duru-Bellat (2006) — L’Inflation scolaire. Les désillusions de la méritocratie
+- 5. Agnès van Zanten (2009) — Choisir son école. Stratégies familiales et médiations locales
+- 6. Jean Guichard & Michel Huteau (2001) — Psychologie de l’orientation
+- 7. Ambre Guichard-Ménard & Romain Deles (2023) — L’injonction au projet : une sélection informelle des étudiant·es
+- 8. Séverine Landrier & Nadia Nakhili (2010) — Comment l’orientation contribue aux inégalités de parcours scolaires en France
+- 9. Leïla Frouillou, Clément Pin & Agnès van Zanten (2020) — Have the APB and Parcoursup platforms promoted equal opportunity? The evoluti...
+- 10. Marie Duru-Bellat (2024) — L’orientation en France : entre projet et sélection
+- 11. Alban Mizzi (2022) — La gestion émotionnelle de Parcoursup. Une épreuve entre inégalités de ressources et d’incertitudes
+- 12. Leïla Frouillou (2023) — Parcoursup et la reconfiguration des inégalités dans l’enseignement supérieur français
+- 13. Carole Daverne-Bailly & Claudie Bobineau (2020) — Orienter et s’orienter vers l’enseignement supérieur dans un contexte de changement...
+- 14. Fanette Vallet-Giannini & Sophie Morlaix (2024) — Choix de spécialités au baccalauréat et classement sur Parcoursup : quels liens ave...
+- 15. Aziz Jellab (2021) — L’orientation scolaire en France ou de la distillation fractionnée
+- 16. Régis Ouvrier-Bonnaz (2019) — Évolutions conjointes de la situation scolaire et de l’orientation en France : quelques repères pour un...
+- 17. Anaëlle Milon (2022) — La sélection invisible des étudiants handicapés dans l’enseignement supérieur : projets, transition et parcours
+- 18. Sylvie Biemar, Marie-Christelle Philippe & Marc Romainville (2003) — L’injonction au projet : paradoxale et infondée ? Approche longi...
+- 19. Agnès van Zanten (2015) — Les inégalités d’accès à l’enseignement supérieur. Quel rôle joue le lycée d’origine des futurs étudiants ?
+- 20. IGÉSR (Michel Lugnier, Amaury Flégès, Frédérique Weixler, Olivier Rey, Didier Lacroix) (2021) — Rapport thématique IGÉSR 2020 : L’ori...
+- 21. IGÉSR (Erick Roser, Nathalie Costantini, Christophe Marsollier, Anne-Marie Romulus) (2024) — Les psychologues de l’éducation national...
+- 22. Comité éthique et scientifique Parcoursup et Mon Master (2025) — 7e rapport annuel au Parlement
+- 23. Jacques Grosperrin / Sénat (2023) — Rapport d’information (…) sur la procédure Parcoursup : bilan cinq ans
+- 24. DEPP — Gabrielle Fack & Julien Grenet (2016) — L’impact du choix scolaire régulé sur la mixité sociale et scolaire dans les lycées pa...
+- 25. République française (2018) — LOI n° 2018-166 du 8 mars 2018 relative à l’orientation et à la réussite des étudiants
+- 26. Ministère de l’Éducation nationale (2015) — Parcours Avenir (arrêté du 1-7-2015)
+- 27. Parcoursup / Ministère de l’Enseignement supérieur (2025) — La fiche Avenir de la procédure Parcoursup
+- 28. Ministère de l’Éducation nationale (2025) — Baccalauréat : comment se passe le Grand oral ?
+- 29. ONISEP (erişim 2026) — L’information pour l’orientation
+- 30. Ministère de l’Éducation nationale (2019) — Les lieux d’information de l’orientation
+- 31. Campus France (erişim 2026) — Rendez-vous en France / official student and higher-education portal
+- 32. Cedefop / Graziana Boscato (2023) — Inventory of lifelong guidance systems and practices – France
+- 33. Euroguidance Network (2024) — Guidance System in France
+- 34. OECD (2024) — Challenging Social Inequality Through Career Guidance: Insights from International Data and Practice
+- 35. L’orientation scolaire et professionnelle (erişim 2026) — L’orientation scolaire et professionnelle (Cairn / OpenEdition)
+- 36. Formation emploi. Revue française de sciences sociales (erişim 2026) — Formation emploi. Revue française de sciences sociales
+- 37. Diversité. Revue d’actualité et de réflexion sur l’action éducative (erişim 2026) — Diversité. Revue d’actualité et de réflexion sur ...
+- 38. Revue internationale d’éducation de Sèvres (erişim 2026) — Revue internationale d’éducation de Sèvres
+- 39. Aynur Oksal & Fatih Güner (2018) — Fransa ve Türkiye’deki Okullarda Yürütülen Rehberlik Hizmetlerinin İncelenmesi (Karşılaştırmalı Du...
+- 40. Meliha Aslam Orkun, Ayşe Bayırlı & Sibel Bayırlı (2019) — Fransa Eğitim Sisteminin İncelenmesi
+- 41. Adil Türkoğlu (2019) — Türk ve Fransız Eğitim Sistemlerinin Evriminin Karşılaştırmalı Olarak İncelenmesi
+- 42. Marie Duru-Bellat (yaklaşık 2018) — Marie Duru-Bellat : Se mobiliser au service de la démocratisation de l’orientation
+- 43. François Dubet (2020) — The Challenges of Mass Schooling
+
+## 09-turkiye-rehberlik.md (95 KB, 46 kaynak başlığı)
+
+- 1. Holland (1997) — *Making Vocational Choices: A Theory of Vocational Personalities and Work Environments*
+- 2. Super (1990) — *A life-span, life-space approach to career development*
+- 3. Brown & Lent (2020) — *Career Development and Counseling: Putting Theory and Research to Work*
+- 4. Blustein (2006) — *The Psychology of Working: A New Perspective for Career Development, Counseling, and Public Policy*
+- 5. Lent, Brown & Hackett (1994) — *Toward a Unifying Social Cognitive Theory of Career and Academic Interest, Choice, and Performance*
+- 6. Savickas et al. (2009) — *Life designing: A paradigm for career construction in the 21st century*
+- 7. Guichard (2009) — *Self-constructing*
+- 8. Hooley, Sultana & Thomsen (ed.) (2018) — *Career Guidance for Social Justice: Contesting Neoliberalism*
+- 9. Brown et al. (2003) — *Critical ingredients of career choice interventions: More analyses and new hypotheses*
+- 10. Whiston, Brecheisen & Stephens (2003) — *Does treatment modality affect career counseling effectiveness?*
+- 11. Whiston, Li, Mitts & Wright (2017) — *Effectiveness of career choice interventions: A meta-analytic replication and extension*
+- 12. Wang, Li & Wang (2024) — *A systematic review on career interventions for high school students*
+- 13. Oliver & Spokane (1988) — *Career-intervention outcome: What contributes to client gain?*
+- 14. Stead, LaVeck & Hurtado Rúa (2022) — *Career adaptability and career decision self-efficacy: Meta-analysis*
+- 15. Sultana (2014) — *Career guidance for social justice in neoliberal times*
+- 16. OECD (2024) — *Career guidance, social inequality and social mobility: Insights from international data*
+- 17. Pietrzyk et al. (2025) — *Guidance Counseling Can Reduce Inequality in University Enrollment in Germany: Results from a Randomized Co...
+- 18. Fitzenberger, Hillerich-Sigg & Sprietsma (2020) — *Different counselors, many options: Career guidance and career plans in secondary ...
+- 19. Dang & Rogers (2008) — *The growing phenomenon of private tutoring: Does it deepen human capital, widen inequalities, or waste resour...
+- 20. Tansel & Bircan (2006) — *Demand for education in Turkey: A Tobit analysis of private tutoring expenditures*
+- 21. Bray (1999) — *The Shadow education system: Private tutoring and its implications for planners*
+- 22. Højdal (2020) — *Critical Perspectives on the Life-Design Paradigm*
+- 23. Thomsen (2022) — *Critical perspectives on agency and social justice in transitions and career development*
+- 24. OECD (2004) — *Career Guidance and Public Policy: Bridging the Gap*
+- 25. MEB (2020) — *Millî Eğitim Bakanlığı Rehberlik ve Psikolojik Danışma Hizmetleri Yönetmeliği*
+- 26. MEB (2020) — *Rehberlik ve Araştırma Merkezi Yönergesi* ve *Rehberlik ve Psikolojik Danışma Hizmetleri Etik Yönergesi*
+- 27. Yüksel, Işık, Güven et al. (2020) — *Türkiye’de Rehberlik ve Psikolojik Danışma Hizmetleri*
+- 28. YÖK (2016–güncel) — *Yükseköğretim Program Atlası (YÖK Atlas)*
+- 29. ÖSYM (2026) — *Yükseköğretim Programları ve Kontenjanları Kılavuzu (YKS)*
+- 30. KVKK (2020/255, yayımlanma 2021) — *Kurul Karar Özeti: eğitim kurumunda çocukların özel nitelikli kişisel verilerinin işlenmesi*
+- 31. AERA, APA & NCME (2014) — *Standards for Educational and Psychological Testing (2014 Edition)*
+- 32. International Test Commission (2000/2013 v1.2) — *The ITC Guidelines on Test Use*
+- 33. EPDAD (2022) — *Rehberlik ve Psikolojik Danışmanlık (RPD) Lisans Eğitimi Yeterlilik Alanları* ve standart paketi
+- 34. Türk PDR Derneği (güncel portal) — *kurumsal portal ve meslek kaynakları*
+- 35. Türk PDR Derneği (1990–güncel) — *Turkish Psychological Counseling and Guidance Journal / Türk Psikolojik Danışma ve Rehberlik Dergisi*
+- 36. INETOP/CNAM (1972–güncel) — *L’orientation scolaire et professionnelle*
+- 37. Elsevier (1971–güncel) — *Journal of Vocational Behavior*
+- 38. Yeşilyaprak (2019) — *Türkiye’de Mesleki Rehberlik ve Kariyer Danışmanlığı Hizmetleri: Güncel Durum ve Öngörüler*
+- 39. Çarkıt (2019) — *Kariyer Psikolojik Danışmanlığı ve Mesleki Rehberlik Alanında Türkiye’de Yayınlanan Makalelerin İncelenmesi*
+- 40. Doğan (1996) — *Türkiye’de Psikolojik Danışma ve Rehberlik Alanında Meslek Kimliğinin Gelişimi ve Bazı Sorunlar*
+- 41. Özyürek (2019) — *Psikolojik Danışman Eğitimi ve Mesleğin Profesyonel Kimlik Gelişimi için Gereksinim Duyulan Yasa ve Yönetmelik Düze...
+- 42. Ültanır (2005) — *Türkiye’de Psikolojik Danışma ve Rehberlik (PDR) Mesleği ve Psikolojik Danışman Eğitimi*
+- 43. Guichard & Huteau (2023) — *Psychologie de l’orientation* (Yönelimin psikolojisi)
+- 44. Savickas (2015) — *Mark Savickas – “Unplugged”*
+- 45. Hooley et al. (2022) — *Career guidance for social justice webinar (11th March 2022)*
+- Genel kaynaklar arası Reflektif kontrol listesi
+
+## 10-uluslararasi-politika.md (4554 KB, 41 kaynak başlığı)
+
+- 1. OECD — *Career Guidance and Public Policy: Bridging the Gap*
+- 2. OECD ve Avrupa Komisyonu — *Career Guidance: A Handbook for Policy Makers*
+- 3. James A. Athanasou ve Raoul Van Esbroeck (ed.) — *International Handbook of Career Guidance*
+- 4. Cedefop — *Professionalising Career Guidance: Practitioner Competences and Qualification Routes in Europe*
+- 5. Ronald G. Sultana — *Guidance Policies in the Knowledge Society: Trends, Challenges and Responses Across Europe*
+- 6. Malcolm Maguire ve John Killeen — *Outcomes from Career Information and Guidance Services*
+- 7. Susan C. Whiston, Yue Li, Nancy Goodrich Mitts ve Lauren Wright — “Effectiveness of career choice interventions: A meta-analytic repli...
+- 8. OECD — *Career Guidance for Adults in a Changing World of Work*
+- 9. OECD — *Indicators of Teenage Career Readiness: Guidance for Policy Makers*
+- 10. Cedefop — *Towards European Standards for Monitoring and Evaluation of Lifelong Guidance Systems and Services*
+- 11. Ronald G. Sultana — “Pessimism of the Intellect, Optimism of the Will? Troubling the Relationship Between Career Guidance and Social ...
+- 12. Nancy Arthur — “Social Justice and Career Guidance in the Age of Talent”
+- 13. Tristram Hooley, Ronald Sultana ve Rie Thomsen (ed.) — *Career Guidance for Social Justice: Contesting Neoliberalism*
+- 14. Tristram Hooley, Ronald Sultana ve Rie Thomsen (ed.) — *Career Guidance for Emancipation: Reclaiming Justice for the Multitude*
+- 15. Tristram Hooley, Ronald Sultana ve Rie Thomsen — “Five Signposts to a Socially Just Approach to Career Guidance”
+- 16. France Picard, Noémie Olympio, Jonas Masdonati ve Marcelline Bangali — “Justice sociale et orientation scolaire : l’éclairage de l’ap...
+- 17. A. G. Watts ve David H. Fretwell — *Public Policies for Career Development: Case Studies and Emerging Issues for Designing Career Inf...
+- 18. ILO ve European Training Foundation — *Developing National Career Development Support Systems: Pathways to Enhance Lifelong Career Gu...
+- 19. ILO — *Handbook for Career Development: Introduction to the ILO Framework for Career Development in Low- and Middle-Income Countries*
+- 20. ILO, Cedefop, UNESCO, OECD, Avrupa Komisyonu, ETF ve ICCDPP — *Career Guidance Policy and Practice in the Pandemic*
+- 21. UNESCO — *Recommendation Concerning Technical and Vocational Education and Training (TVET)*
+- 22. UNESCO — *Transforming Technical and Vocational Education and Training for Successful and Just Transitions: UNESCO Strategy for TVET ...
+- 23. European Lifelong Guidance Policy Network (ELGPN) — *Lifelong Guidance Policy Development: A European Resource Kit*
+- 24. ELGPN — *ELGPN Tools No. 6: Guidelines for Policies and Systems Development for Lifelong Guidance*
+- 25. Cedefop — *Inventory of Lifelong Guidance Systems and Practices*
+- 26. Cedefop — *Establishing and Developing National Lifelong Guidance Policy Forums: A Manual for Policy-Makers and Stakeholders*
+- 27. ELGPN — *Yaşam Boyu Rehberlik Politikaları: Yürütülmekte Olan Çalışma — Avrupa Yaşam Boyu Rehberlik Politika Ağı 2009–10 Çalışması il...
+- 28. IAEVG — *International Competencies for Educational and Vocational Guidance Practitioners*
+- 29. IAEVG — *IAEVG Ethical Guidelines*
+- 30. National Career Development Association — *2024 NCDA Code of Ethics*
+- 31. International Centre for Career Development and Public Policy (ICCDPP) — çevrimiçi politika bilgi merkezi
+- 32. A. G. Watts ve Ronald G. Sultana — “Career Guidance Policies in 37 Countries: Contrasts and Common Themes”
+- 33. OECD — *Career Readiness Review: The Commonwealth of Virginia, United States*
+- 34. Cedefop/CareersNet — *Inventory of Lifelong Guidance Systems and Practices: Türkiye* ülke kaydı
+- 35. Binnur Yeşilyaprak — “Türkiye’de Mesleki Rehberlik ve Kariyer Danışmanlığı Hizmetleri: Güncel Durum ve Öngörüler”
+- 36. Cedefop — *Hayat Boyu Rehberlik İçin Ulusal Politika Forumlarının Kurulması ve Geliştirilmesi: Politika Yapıcılar ve Paydaşlar İçin B...
+- 37. Jean Guichard ve Michel Huteau — *Psychologie de l’orientation*
+- 38. *L’orientation scolaire et professionnelle* — Fransızca hakemli dergi ve 44(1) özel içeriği
+- 39. *International Journal for Educational and Vocational Guidance* (IJEVG)
+- 40. *Journal of the National Institute for Career Education and Counselling* (NICEC Journal)
+- 41. NICEC/COCAG — *Career Guidance for Social Justice Webinar*
+
+## 11-edtech-rakipler.md (1956 KB, 54 kaynak başlığı)
+
+- 1. John L. Holland (1997) — *Making Vocational Choices: A Theory of Vocational Personalities and Work Environments* (3rd ed.)
+- 2. Robert W. Lent, Steven D. Brown ve Gail Hackett (1994) — *Toward a Unifying Social Cognitive Theory of Career and Academic Interest, C...
+- 3. Mark L. Savickas (2019) — *Career Construction Theory: Life Portraits of Attachment, Adaptability, and Identity*
+- 4. Jean Guichard ve Michel Huteau (2001) — *Psychologie de l’orientation*
+- 5. Tristram Hooley, Ronald G. Sultana ve Rie Thomsen (ed.) (2017) — *Career Guidance for Social Justice: Contesting Neoliberalism*
+- 6. Neil Selwyn (2021) — *Education and Technology: Key Issues and Debates* (3rd ed.)
+- 7. Susan C. Whiston, Thomas L. Sexton ve David L. Lasoff (1998) — *Career-Intervention Outcome: A Replication and Extension of Oliver and...
+- 8. Susan C. Whiston, Yue Li, Nancy Goodrich Mitts ve Lauren Wright (2017) — *Effectiveness of Career Choice Interventions: A Meta-Analyti...
+- 9. Alexis Hanna ve James Rounds (2020) — *How Accurate Are Interest Inventories? A Quantitative Review of Career Choice Hit Rates*
+- 10. Murray R. Barrick ve Michael K. Mount (1991) — *The Big Five Personality Dimensions and Job Performance: A Meta-Analysis*
+- 11. Ben Williamson, Sian Bayne ve Suellen Shay (2020) — *The Datafication of Teaching in Higher Education: Critical Issues and Perspectives*
+- 12. Janja Komljenovic ve Susan L. Robertson (2016) — *The Dynamics of “Market-Making” in Higher Education*
+- 13. Paul Lehner, Anne-Claudine Oller ve Clément Pin (2023) — *Les plateformes numériques d’orientation : des outils pour la socialisation...
+- 14. David J. Pittenger (2005) — *Cautionary Comments Regarding the Myers-Briggs Type Indicator*
+- 15. OECD (2024) — *Digital Technologies in Career Guidance for Youth: Opportunities and Challenges*
+- 16. OECD (2024) — *Challenging Social Inequality Through Career Guidance: Insights from International Data and Practice*
+- 17. OECD (2025) — *The State of Global Teenage Career Preparation*
+- 18. OECD (2023) — *Algorithmic Bias: The State of the Situation and Policy Recommendations*
+- 9\. Algorithmic bias: the state of the situation and policy recommendations
+- Abstract
+- Topics
+- Countries & regions
+- Data
+- Publications
+- News & Events
+- Social media links
+- Utility links
+- 19. UNESCO GEM Report Team (2023) — *Technology in Education: A Tool on Whose Terms?*
+- 20. IAEVG (2025) — *IAEVG Ethical Guidelines*
+- 21. NCDA (2024) — *2024 NCDA Code of Ethics*
+- 22. Gatsby Charitable Foundation (2025) — *Good Career Guidance: The Next 10 Years*
+- 23. Binnur Yeşilyaprak (2019) — *Türkiye’de Mesleki Rehberlik ve Kariyer Danışmanlığı Hizmetleri: Güncel Durum ve Öngörüler*
+- 24. Ersoy Çarkıt (2019) — *Kariyer Psikolojik Danışmanlığı ve Mesleki Rehberlik Alanında Türkiye’de Yayınlanan Makalelerin İncelenmesi*
+- 25. Unifrog (n.d.) — *The Universal Destinations Platform*
+- 26. BridgeU (n.d.) — *International University and Career Guidance in One Platform*
+- 27. MaiaLearning (n.d.) — *Guiding Students Towards Thriving Futures*
+- 28. PowerSchool (n.d.) — *PowerSchool CCLR (Naviance): Propel Every Student Toward What’s Next*
+- 29. 16Personalities / NERIS (n.d.) — *Free Personality Test / Career Suite*
+- 30. YouScience (n.d.) — *Empower Students with Aptitude-Driven College and Career Readiness*
+- 31. Pathful (n.d.) — *The Career Readiness & Development Company*
+- 32. Futurum Careers (n.d.) — *About Us*
+- 33. JobTeaser (n.d.) — *The All-in-One Career Platform*
+- 34. JobIRL (2013–, n.d.) — *JobIRL, l’orientation In Real Life*
+- 35. Orientation.com (n.d.) — *Orientation.com : Trouver son école, s’orienter, se réorienter*
+- 36. Studyrama (n.d.) — *Test d’orientation*
+- 37. Onisep (n.d.) — *L’information pour l’orientation*
+- 38. Kariyer.net (1999–, n.d.) — *İş İlanları & Kariyer Fırsatları*
+- 39. Secretcv (n.d.) — *İş İlanları & Kariyer Fırsatları*
+- 40. TestGorilla (n.d.) — *Skills-Based Professional Profile*
+- 41. Traitify (n.d.) — *Hiring the Right People Isn’t Magic, It’s Science*
+- 42. Mindler (n.d.) — *What Are Career Assessments?*
+- 43. Univariety (2015–, n.d.) — *Career Guidance and Alumni Management Platform*
+- 44. Cialfo (n.d.) — *Smarter College Counseling for Schools and Students*
+- 45. SchooLinks (n.d.) — *A Single Platform for College and Career Readiness*
+
+## 12-okul-danismanligi.md (1550 KB, 135 kaynak başlığı)
+
+- 1. American School Counselor Association — *The ASCA National Model: A Framework for School Counseling Programs* (Fifth Edition)
+- 2. Norman C. Gysbers & Patricia Henderson — *Developing & Managing Your School Guidance & Counseling Program* (5th ed.)
+- 3. Chari A. Campbell & Carol A. Dahir — *Sharing the Vision: The National Standards for School Counseling Programs*
+- 4. Carey Dimmitt, John C. Carey & Trish Hatch — *Evidence-Based School Counseling: Making a Difference with Data-Driven Practices*
+- 5. John C. Carey, Barbara Harris, Sung-Mook Lee & O. Aluede (eds.) — *International Handbook for Policy Research on School-Based Counseling*
+- 6. Steven D. Brown & Robert W. Lent (eds.) — *Career Development and Counseling: Putting Theory and Research to Work* (3rd ed.)
+- 7. Mark L. Savickas — *Career Counseling*
+- 8. John L. Holland — *Making Vocational Choices: A Theory of Vocational Personalities and Work Environments* (3rd ed.)
+- 9. Susan C. Whiston & Robert F. Quinby — “Review of school counseling outcome research”
+- 10. Susan C. Whiston, Wendi Lee Tai, Daryn Rahardja & Kelly Eder — “School Counseling Outcome: A Meta-Analytic Examination of Interventions”
+- 11. Robert T. Lapan, Norman C. Gysbers & Yung Sun — “The Impact of More Fully Implemented Guidance Programs on the School Experiences of ...
+- 12. John Carey & Carey Dimmitt — “School Counseling and Student Outcomes: Summary of Six Statewide Studies”
+- 13. Chris Kearney, Patrick Akos, Thurston Domina & Zachary Young — “Student-to-School Counselor Ratios: A Meta-Analytic Review of the Evi...
+- 14. Peg Donohue, Jennifer L. Parzych, Ming Ming Chiu, Kathryn Goldberg & Karena Nguyen — “The Impacts of School Counselor Ratios on Stude...
+- 15. Sam Steen, Jennifer Melfie, Annie Carro & Qi Shi — “A Systematic Literature Review Exploring Achievement Outcomes and Therapeutic Fac...
+- 16. Christopher D. Slaten, Jisu Lee, Carrie Wachter-Morris, Michael Steven Williams & Jenny Huynh — “School Counselors in the Classroom: ...
+- 17. Tyler E. Smith, Shannon R. Holmes, Susan M. Sheridan, Jennifer M. Cooper, Bradley S. Bloomfield & June L. Preast — “The Effects of Co...
+- 18. Tyler E. Smith, Susan M. Sheridan, Elizabeth M. Kim, Sunyoung Park & S. Natasha Beretvas — “The Effects of Family-School Partnership ...
+- 19. Derald Wing Sue, Patricia Arredondo & Roderick J. McDavis — “Multicultural Counseling Competencies and Standards: A Call to the Profe...
+- 20. Patricia Arredondo et al. — “Operationalization of the Multicultural Counseling Competencies”
+- 21. Michael J. Ratts et al. — “Multicultural and Social Justice Counseling Competencies: A Leadership Framework for Professional School C...
+- 22. Veronica Placeres et al. — “School Counselors and Multicultural Counseling Competencies: Are We as Competent as We Think We Are?”
+- 23. Joy J. Burnham, Heather Fye, C. M. Jackson, Marisol Ocampo & Lisa Clark — “A 20-Year Review of School Counselor Roles: Discrepancies ...
+- 24. IAEVG — *International Competency Framework for Educational and Vocational Guidance Practitioners*
+- 25. National Career Development Association — *Minimum Competencies for Multicultural Career Counseling and Development*
+- 26. OECD & European Commission — *Career Guidance: A Handbook for Policy Makers*
+- **A HANDBOOK FOR POLICY MAKERS**
+- **6**
+- **7**
+- 27. OECD — *Career Guidance and Public Policy: Bridging the Gap*
+- **BRIDGING THE GAP**
+- Bridging the Gap
+- 28. Cedefop — *Professionalising Career Guidance: Practitioner Competences and Qualification Routes in Europe*
+- Practitioner competences and qualification routes in Europe
+- Cedefop
+- Practitioner competences and qualification routes in Europe
+- Tables
+- Figures
+- The research
+- The need for training in career guidance skills
+- Current training provision
+- Emerging issues
+- The concept of competence
+- The competence framework and its uses
+- Conclusions and recommendations
+- 1\.1. The study
+- 1\.2. Career guidance in the context of EU strategies
+- 1\.3. Characteristics of effective career guidance systems
+- 1\.4. Changes and trends
+- 1\.5. The role of career guidance specialists in dispersed delivery networks
+- 1\.6. Competence, training, and accreditation of prior experience and learning
+- 2\.1. Career guidance roles
+- 2\.2. Training traditions and patterns
+- 2\.3. Specialised training
+- 2\.4. School-based roles
+- 2\.5. Public employment service roles
+- 2\.6. Higher education roles
+- 2\.7. Roles in other settings
+- 2\.8. The broader context
+- 3\.1. Sufficiency: level and specialism
+- 3\.2. Teaching methods using distance and e-learning
+- 3\.3. Practicum
+- 3\.4. Labour market and occupational knowledge
+- 3\.5. Professional identity
+- 3\.6. Challenges in developing career guidance services
+- 4\.1. Introduction
+- 4\.2. Bulgaria
+- 4\.3. Denmark
+- 4\.4. Ireland
+- 4\.5. Latvia
+- 4\.6. Poland
+- 4\.7. Scotland
+- 5\.1. The concept of competence
+- 5\.2. Designing the competence framework
+- 5\.3. Understanding the competence framework
+- 5\.4. Understanding specific elements within the competence framework
+- 5\.5. Are all competences ‘learnable’?
+- 5\.6. Responses to the consultation process
+- 6\.1. Overview of the competence framework
+- 6\.2. The structure of the competence framework
+- 6\.3. Definitions of competence and of career guidance
+- 6\.4. Foundation competences
+- 6\.5. Client-interaction competences
+- 6\.6. Supporting competences
+- 7\.1. Customising the framework
+- 7\.2. The competence framework and qualification systems
+- 7\.3. Other potential uses for the competence framework
+- 8\.1. Attention to training
+- 8\.2. Sufficiency
+- 8\.3. Evidence for what works
+- 8\.4. The competence framework and national qualifications
+- 8\.5. National coordination
+- 8\.6. Support at European level
+- Professionalising career guidance
+- 29. ASCA — *Ethical Standards for School Counselors*
+- 30. ASCA — *School Counselor Roles & Ratios*
+- 31. ASCA — *The ASCA National Model: What the Research Says*
+- 32. Ministère de l’Éducation nationale — *Référentiel de connaissances et de compétences des psychologues de l’éducation nationale*
+- Annexe
+- Référentiel des connaissances et des compétences professionnelles des psychologues de l'éducation nationale
+- 1\. Connaissances et savoirs ressources communs aux deux spécialités :
+- 2 - Compétences communes aux deux spécialités de psychologues de l'éducation nationale
+- 3 - Compétences spécifiques à l'exercice des activités de la spécialité « éducation, développement et apprentissages »
+- 4 - Compétences spécifiques à l'exercice des activités de la spécialité « éducation, développement et conseil en orientation scolaire et ...
+- 5 - Compétences spécifiques à l'exercice des missions de directeur de centre d'information et d'orientation (CIO)
+- Suivez-nous
+- 33. Ministère de l’Éducation nationale — *Psychologues de l’éducation nationale: Missions* (circulaire n° 2017-079)
+- À propos des cookies sur education.gouv.fr
+- Organisation générale
+- Enseignements secondaire et supérieur
+- Enseignements primaire et secondaire
+- Personnels
+- Mouvement du personnel
+- Informations générales
+- 1 - Missions communes aux deux spécialités
+- 2 - Missions spécifiques aux psychologues de l'éducation nationale de la spécialité « éducation, développement et apprentissages »
+- 3 - Missions spécifiques aux psychologues de la spécialité « éducation, développement et conseil en orientation scolaire et professionnel...
+- 4 - Missions spécifiques des directeurs de centre d'information et d'orientation (DCIO)
+- Suivez-nous
+- Pied de page
+- Retrouvez nos liens utiles :
+- 34. Erick Roser, Christophe Marsollier & Anne-Marie Romulus / IGÉSR — *Les psychologues de l’éducation nationale de la spécialité « éduca...
+- **Les psychologues de l’éducation nationale**
+- **de la spécialité « éducation, développement et conseil en**
+- **orientation scolaire et professionnelle »**
+- 35. Jean Guichard & Michel Huteau — *Psychologie de l’orientation* (2e éd. rev. et augm.)
+- 36. INETOP–Cnam — *L’Orientation scolaire et professionnelle* (OSP)
+- 37. Millî Eğitim Bakanlığı — *Millî Eğitim Bakanlığı Rehberlik ve Psikolojik Danışma Hizmetleri Yönetmeliği*
+- 38. Mesleki Yeterlilik Kurumu — *Okul Psikolojik Danışmanı (Seviye 7) Ulusal Meslek Standardı* (17UMS0625-7)
+- 39. Mesleki Yeterlilik Kurumu — *Kariyer Psikolojik Danışmanı (Seviye 7) Ulusal Meslek Standardı* (17UMS0626-7)
+- 40. Olcay Yılmaz & Bünyamin Atay — “Okul Psikolojik Danışmanlarının Beceri Boşluğu: Ulusal Meslek Standardı Kapsamında Bir İnceleme”
+- 41. Kemal Öztemel (ed.) — *Vaka Örnekleriyle Kariyer Rehberliği ve Kariyer Psikolojik Danışması*
+- 42. *Turkish Psychological Counseling and Guidance Journal* (Türk Psikolojik Danışma ve Rehberlik Dergisi)
+- 43. ASCA — *What’s New in the ASCA National Model, Fifth Edition?*
+- 44. Cnam–INETOP — *Le Cnam Inetop: Orientation scolaire et professionnelle* (90 ans d’innovation en orientation scolaire)
+
+## 13-universite-kabul.md (101 KB, 42 kaynak başlığı)
+
+- 1. Mitchell L. Stevens (2007/2009) — *Creating a Class: College Admissions and the Education of Elites*
+- 2. Jerome Karabel (2005) — *The Chosen: The Hidden History of Admission and Exclusion at Harvard, Yale, and Princeton*
+- 3. Rebecca Zwick (2017) — *Who Gets In? Strategies for Fair and Effective College Admissions*
+- 4. Lauren A. Rivera (2015) — *Pedigree: How Elite Students Get Elite Jobs*
+- 5. Natasha K. Warikoo (2016) — *The Diversity Bargain: And Other Dilemmas of Race, Admissions, and Meritocracy at Elite Universities*
+- 6. Thomas J. Espenshade, Chang Y. Chung & Joan L. Walling (2004) — “Admission Preferences for Minority Students, Athletes, and Legacies a...
+- 7. Sigal Alon (2009) — “The Evolution of Class Inequality in Higher Education: Competition, Exclusion, and Adaptation”
+- 8. Michael N. Bastedo, Nicholas A. Bowman, Kristen M. Glasener & Jandi L. Kelly (2018) — “What are We Talking About When We Talk About Ho...
+- 9. Paul R. Sackett ve ark. (2012) — “The Role of Socioeconomic Status in SAT-Grade Relationships and in College Admissions Decisions”
+- 10. Nathan R. Kuncel, Sarah A. Hezlett & Deniz S. Ones (2001) — “A Comprehensive Meta-Analysis of the Predictive Validity of the Graduate...
+- 11. Raj Chetty, John Friedman, Emmanuel Saez, Nicholas Turner & Danny Yagan (2020) — “Mobility Report Cards: Income Segregation and Inter...
+- 12. Raj Chetty, David J. Deming & John N. Friedman (2023 çalışma kâğıdı; 2026 yayımlanmış sürüm) — “Diversifying Society’s Leaders? …”
+- 13. Vikki Boliver (2015/2016) — “Exploring Ethnic Inequalities in Admission to Russell Group Universities”
+- 14. Tiffany J. Huang (2023/2024) — “Translating Authentic Selves into Authentic Applications: Private College Consulting and Selective Co...
+- 15. Amy Liu (2011) — “The Admission Industrial Complex: Examining the Entrepreneurial Impact on College Access”
+- 16. Laura L. Espinosa, Matthew N. Gaertner & Gary Orfield (2015) — *Race, Class, and College Access: Achieving Diversity in a Shifting Le...
+- 17. Arthur L. Coleman & Jamie Lewis Keith (2018) — *Understanding Holistic Review in Higher Education Admissions: Guiding Principles and ...
+- 18. Tom Fryer, Steve Westlake & Steven Jones (2022) — *Reforming the UCAS personal statement: Making the case for a series of short quest...
+- 19. National Association for College Admission Counseling (2026 edition; PDF updated August 2024) — *Guide to Ethical Practice in College...
+- 20. NACAC (2023 çevrimiçi yeniden tasarım) — *State of College Admission*
+- 21. The Common Application (2026 çevrimiçi kaynak seti) — *Common App: Application platform, counselor resources, reports and insights*
+- 22. UCAS (2026 çevrimiçi kaynak seti) — *Applying to university* ve *Supporting international students*
+- 23. Vikki Boliver, Claire Crawford, Mandy Powell & Will Craige (2017) — *Admissions in Context*
+- 24. Stiftung für Hochschulzulassung / Hochschulstart (2026) — *Verfahrensdetails: Dialogorientiertes Serviceverfahren (DoSV) und Zentrale...
+- 25. Deutscher Akademischer Austauschdienst (DAAD) (2026) — *Database on admission requirements*
+- 26. ENIC-NARIC Networks (1997; çevrimiçi rehber 2026) — *The Lisbon Recognition Convention*
+- 27. National Association of Credential Evaluation Services (çevrimiçi) — *How Universities Use Credential Evaluation in Admissions Decisi...
+- 28. Sadık Kartal (2009) — “Üniversiteye Girişte Bölgeler Arası Fırsat Eşitsizliği”
+- 29. Fikret Şenses (2007) — *Uluslararası Gelişmeler Işığında Türkiye Yükseköğretim Sistemi: Temel Eğilimler, Sorunlar, Çelişkiler ve Öner...
+- 30. ÖSYM (2025) — *2025-Yükseköğretim Programları ve Kontenjanları Kılavuzu*
+- 31. YÖK (2026) — *YÖK Atlas / Net Sihirbazı*
+- 32. Leïla Frouillou (2023) — “Parcoursup et la reconfiguration des inégalités dans l’enseignement supérieur français”
+- 33. Leïla Frouillou, Marie-Paule Couto & Fanny Bugeja-Bloch (2021) — “Parcoursup : les prémices d’un accroissement de la stratification s...
+- 34. Comité éthique et scientifique de Parcoursup et Mon Master (2024 raporu; 2025 yayımlanma) — *7e rapport annuel 2024*
+- 35. Campus France (2024) — *Student mobility key figures for 2024: over 412,000 international students in France*
+- 36. Campus France (2025 güncellemesi) — *You reside in a country or a territory affected by the “Etudes en France” procedure*
+- 37. *Journal of College Admission* (NACAC)
+- 38. *The Journal of Higher Education*
+- 39. *Sociology of Education*
+- 40. *American Sociological Review*
+- 41. *Sociology*
+- 42. Brookings Institution (26 Temmuz 2023) — *Who gets into college and why does it matter? The impact of college admissions on economic ...
+
+## 14-gelecegin-isleri.md (162 KB, 44 kaynak başlığı)
+
+- 1. Claudia Goldin, Lawrence F. Katz (2008) — *The Race between Education and Technology* (Eğitim ile teknoloji arasındaki yarış)
+- 2. Carl Benedikt Frey (2019) — *The Technology Trap: Capital, Labor, and Power in the Age of Automation* (Teknoloji tuzağı: Otomasyon çağ...
+- 3. Daniel Susskind (2020) — *A World Without Work: Technology, Automation, and How We Should Respond* (İşsiz bir dünya: Teknoloji, otomas...
+- 4. Richard Susskind, Daniel Susskind (2015) — *The Future of the Professions: How Technology Will Transform the Work of Human Experts* (M...
+- 5. Erik Brynjolfsson, Andrew McAfee (2011) — *Race Against the Machine: How the Digital Revolution Is Accelerating Innovation, Driving Pr...
+- 6. David H. Autor, Frank Levy, Richard J. Murnane (2003) — *The Skill Content of Recent Technological Change: An Empirical Exploration*
+- 7. Daron Acemoglu, David Autor (2011) — *Skills, Tasks and Technologies: Implications for Employment and Earnings*
+- 8. Maarten Goos, Alan Manning, Anna Salomons (2009) — *Job Polarization in Europe*
+- 9. Carl Benedikt Frey, Michael A. Osborne (2013) — *The Future of Employment: How Susceptible Are Jobs to Computerisation?*
+- 10. Daron Acemoglu, Pascual Restrepo (2019) — *Automation and New Tasks: How Technology Displaces and Reinstates Labor*
+- 11. Seamus McGuinness, Konstantinos Pouliakas, Paul Redmond (2018) — *Skills Mismatch: Concepts, Measurement and Policy Approaches*
+- 12. Davide Consoli, Giovanni Marin, Alberto Marzucchi, Francesco Vona (2016) — *Do Green Jobs Differ from Non-Green Jobs in Terms of Skil...
+- 13. Edward W. Felten, Manav Raj, Robert Seamans (2018) — *A Method to Link Advances in Artificial Intelligence to Occupational Abilities*
+- 14. Tyna Eloundou, Sam Manning, Pamela Mishkin, Daniel Rock (2024) — *GPTs are GPTs: Labor Market Impact Potential of LLMs*
+- 15. David H. Autor (2015) — *Why Are There Still So Many Jobs? The History and Future of Workplace Automation*
+- 16. Melanie Arntz, Terry Gregory, Ulrich Zierahn (2016) — *The Risk of Automation for Jobs in OECD Countries: A Comparative Analysis*
+- 17. Brigitte-Jo Krings, António Brandão Moniz, Philipp Frey (2021) — *Technology as Enabler of the Automation of Work? Current Societal C...
+- 18. Sabine Pfeiffer (2018) — *The “Future of Employment” on the Shop Floor: Why Production Jobs Are Less Susceptible to Computerization t...
+- 19. Seamus McGuinness, Konstantinos Pouliakas, Paul Redmond (2023 (çevrim içi yayımlanma: 2021)) — *Skills-Displacing Technological Chang...
+- 20. World Economic Forum (2025) — *The Future of Jobs Report 2025*
+- 21. World Economic Forum (2023) — *The Future of Jobs Report 2023*
+- 22. OECD (2023) — *OECD Skills Outlook 2023: Skills for a Resilient Green and Digital Transition*
+- 23. OECD (2019) — *OECD Employment Outlook 2019: The Future of Work*
+- 24. OECD (2023) — *OECD Employment Outlook 2023: Artificial Intelligence and the Labour Market*
+- 25. ILO Global Commission on the Future of Work (2019) — *Work for a Brighter Future: Report of the Global Commission on the Future of Work*
+- 26. International Labour Organization (2016) — *Guidelines for a Just Transition towards Environmentally Sustainable Economies and Societ...
+- 27. International Labour Organization (2019) — *Skills for a Greener Future: A Global View*
+- 28. Pawel Gmyrek ve diğerleri (2025) — *Generative AI and Jobs: A Refined Global Index of Occupational Exposure*
+- 29. European Centre for the Development of Vocational Training (Cedefop) (2023 sürümü) — *Cedefop Skills Forecast*
+- 30. O*NET Resource Center / U.S. Department of Labor (2006) — *New and Emerging (N&E) Occupations Methodology Development Report*
+- 31. World Bank (2019) — *World Development Report 2019: The Changing Nature of Work*
+- 32. Türkiye İş Kurumu (İŞKUR) (tarihsiz kurumsal rehber) — *GELECEĞİN MESLEKLERİ*
+- 33. Türkiye İş Kurumu (İŞKUR) (2025) — *2025 Yılı Türkiye İşgücü Piyasası Araştırması Raporu*
+- 34. Mesleki Yeterlilik Kurumu (MYK) ve proje ortakları (tarihsiz proje/meslek standardı kaynağı) — *Dijitalleşme Çağında Geleceğin Meslek...
+- 35. Yükseköğretim Kurulu (YÖK) / ilgili derleme (tarihsiz derleme PDF’i) — *Geleceğin Meslekleri ile İlgili Kısa Notlar* (YÖK derlemesind...
+- 36. İŞKUR, Tematik Araştırma Raporları dizisi (yıl, İŞKUR rapor sayfasında seçilen sürüme göre doğrulanmalı) — *Otomotiv Sektöründe İstih...
+- 37. France Stratégie, Dares (2022) — *Les métiers en 2030*
+- 38. France Stratégie (2018) — *Intelligence artificielle et travail*
+- 39. American Economic Association (sürekli yayın) — *Journal of Economic Perspectives*
+- 40. American Economic Association (sürekli yayın) — *American Economic Review*
+- 41. Oxford University Press (sürekli yayın) — *The Quarterly Journal of Economics*
+- 42. University of Notre Dame, John A. Hogan Distinguished Lecture Series (2023) — David Autor, *The Work of the Future: Where Will It Com...
+- 43. Oxford Martin School / Oxford (2025) — Carl Benedikt Frey, *Oxford’s Carl Benedikt Frey on AI, Jobs and the Future of Work*
+- 44. Oxford Martin School (2020) — Daniel Susskind, *A World Without Work*
+
+## 15-anlati-debrief-ai.md (143 KB, 45 kaynak başlığı)
+
+- 1. Mark L. Savickas — *Career Counseling* (2011)
+- 2. Mark L. Savickas — *Career Construction Theory: Life Portraits of Attachment, Adaptability, and Identity* (2019)
+- 3. Larry Cochran — *Career Counseling: A Narrative Approach* (1997)
+- 4. Dan P. McAdams — *The Stories We Live By: Personal Myths and the Making of the Self* (1993)
+- 5. William R. Miller & Stephen Rollnick — *Motivational Interviewing: Helping People Change and Grow* (4. baskı, 2023)
+- 6. Laura Nota & Jean Rossier (ed.) — *Handbook of the Life Design Paradigm: From Practice to Theory, and from Theory to Practice* (2015)
+- 7. Mark L. Savickas, Laura Nota, Jérôme Rossier, Jean-Pierre Dauwalder, Maria Eduarda Duarte, Jean Guichard, Salvatore Soresi, Raoul Van ...
+- 8. Mark L. Savickas — “The theory and practice of career construction” (2005)
+- 9. Mark L. Savickas — “Career construction theory and practice” (2013)
+- 10. Paul J. Hartung — “The Career Construction Interview” (2015)
+- 11. Charles Bujold — “Constructing career through narrative” (2004)
+- 12. Dan P. McAdams & Kate C. McLean — “Narrative identity” (2013)
+- 13. Jean Guichard — “Self-constructing” (2009)
+- 14. Mark L. Savickas & Jacques Pouyaud — “Concevoir et construire sa vie : un modèle général pour l’accompagnement en orientation au XXIe...
+- 15. Mark L. Savickas & Erik J. Porfeli — “Career Adapt-Abilities Scale: Construction, reliability, and measurement equivalence across 13 ...
+- 16. Cort W. Rudolph, Kristi N. Lavigne & Hannes Zacher — “Career adaptability: A meta-analysis of relationships with measures of adaptivi...
+- 17. Avraham N. Kluger & Angelo DeNisi — “The effects of feedback interventions on performance: A historical review, a meta-analysis, and ...
+- 18. John Hattie & Helen Timperley — “The power of feedback” (2007)
+- 19. Valerie J. Shute — “Focus on formative feedback” (2008)
+- 20. Laura Nota, Sara Santilli & Salvatore Soresi — “A Life-Design-Based Online Career Intervention for Early Adolescents: Description and...
+- 21. Sara Santilli, Laura Nota & Paul J. Hartung — “Efficacy of a group career construction intervention with early adolescent youth” (2019)
+- 22. Osorochi Patricia Obi — “Constructionist career counseling of undergraduate students: An experimental evaluation” (2015)
+- 23. N. Pordelan, S. Hosseinian & A. Baei Lashaki — “Digital storytelling: a tool for life design career intervention” (2021)
+- 24. William R. Miller & Gary S. Rose — “Toward a theory of motivational interviewing” (2009)
+- 25. Kevin B. Stoltz & Tabitha L. Young — “Applications of Motivational Interviewing in Career Counseling: Facilitating Career Transition”...
+- 26. Florian E. Klonek, Elisabeth Wunderlich, Daniel Spurk & Simone Kauffeld — “Career counseling meets motivational interviewing: A seque...
+- 27. Mary McMahon — “Narrative career counselling: A tension between potential, appeal, and proof. Introduction to the special issue” (2018)
+- 28. Lisbeth Højdal — “Contemporary Approaches to Career Counseling: Critical Perspectives on the Life-Design Paradigm” (2020)
+- 29. Danqi Wang & Yanling Li — “Career construction theory: tools, interventions, and future trends” (2024)
+- 30. Itamar Gati & Liat Asulin-Peretz — “Internet-based self-help career assessments and interventions: Challenges and implications for ev...
+- 31. Mona Sloane, Emanuel Moss & Rumman Chowdhury — “A Silicon Valley love triangle: Hiring algorithms, pseudo-science, and the quest for ...
+- 32. Alene K. Rhea, Kelsey Markey, Lauren D’Arinzo, Hilke Schellmann, Mona Sloane, Paul Squires, Falaah Arif Khan, Julia Stoyanovich ve di...
+- 33. Lennart V. Phan & Jan F. Rauthmann — “Personality computing: New frontiers in personality assessment” (2021)
+- 34. American Psychological Association — *Ethical Guidance for AI in the Professional Practice of Health Service Psychology* (2025)
+- 35. Fengchun Miao & Wayne Holmes — *Guidance for generative AI in education and research* (2023)
+- 36. National Career Development Association — *2024 NCDA Code of Ethics* (2024)
+- 37. International Association for Educational and Vocational Guidance — *IAEVG Ethical Guidelines* (2025)
+- 38. AERA, APA & NCME — *Standards for Educational and Psychological Testing* (2014)
+- 39. Nurten Karacan Özdemir — “Kariyer Yapılandırma Görüşmesi: Nitel Bir Değerlendirme Aracı ve Kariyer Danışma Yöntemi” (2018)
+- 40. Nurten Karacan Özdemir & Gizemsu Karaçay — “Kariyer Yapılandırma Görüşmesi ile Anlam Oluşturma: Bir Vaka Çalışması” (2021)
+- 41. Mark L. Savickas, Laura Nota, Jérôme Rossier, Jean-Pierre Dauwalder, Maria Eduarda Duarte, Jean Guichard, Salvatore Soresi, Raoul Van...
+- 42. Mark Savickas — “Prof Mark Savickas on Life Design” (2023)
+- 43. *The Career Development Quarterly* (NCDA’nın resmî dergisi)
+- 44. *Journal of Vocational Behavior*
+- 45. *L’orientation scolaire et professionnelle* (OSP)
+
+## 16-kvkk-gdpr-edtech.md (136 KB, 45 kaynak başlığı)
+
+- 1. Helen Nissenbaum — *Privacy in Context: Technology, Policy, and the Integrity of Social Life*
+- 2. Ben Williamson — *Big Data in Education: The digital future of learning, policy and practice*
+- 3. Neil Selwyn — *Should Robots Replace Teachers? AI and the Future of Education*
+- 4. Shoshana Zuboff — *The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power*
+- 5. Nick Couldry ve Ulises A. Mejias — *The Costs of Connection: How Data Is Colonizing Human Life and Appropriating It for Capitalism*
+- 6. Veronica Barassi — *Child Data Citizen: How Tech Companies Are Profiling Us from before Birth*
+- 7. Sonia Livingstone — *Children and the Internet*
+- 8. Abelardo Pardo ve George Siemens — “Ethical and privacy principles for learning analytics”
+- 9. Sharon Slade ve Paul Prinsloo — “Learning Analytics: Ethical Issues and Dilemmas”
+- 10. Qinyi Liu ve Ahmed Tlili Khalil — “Understanding privacy and data protection issues in learning analytics using a systematic review”
+- 11. Ryan S. Baker ve Aaron Hawn — “Algorithmic Bias in Education”
+- 12. AERA, APA ve NCME — *Standards for Educational and Psychological Testing (2014 Edition)*
+- 13. Article 29 Data Protection Working Party — *Guidelines on Data Protection Impact Assessment (DPIA) and determining whether processing...
+- 14. Elana Zeide — “Student Privacy Principles for the Age of Big Data: Moving Beyond FERPA and FIPPs”
+- 15. Elana Zeide — “The Limits of Education Purpose Limitations”
+- 16. Priscilla M. Regan ve Jolene Jesse — “Ethical challenges of edtech, big data and personalized learning: twenty-first century student ...
+- 17. Joel R. Reidenberg ve Frederick Schaub — “Achieving big data privacy in education”
+- 18. Juliane Jarke ve Andreas Breiter — “Editorial: the datafication of education”
+- 19. Ben Williamson — “Moulding student emotions through computational psychology: Affective learning technologies and algorithmic governa...
+- 20. Luci Pangrazio, Neil Selwyn ve Bronwyn Cumbo — “Tracking technology: exploring student experiences of school datafication”
+- 21. Avrupa Birliği — *Regulation (EU) 2016/679 (General Data Protection Regulation)*
+- 22. European Data Protection Board — *Guidelines 05/2020 on consent under Regulation 2016/679*
+- 23. Avrupa Birliği — *Regulation (EU) 2024/1689 (Artificial Intelligence Act)*
+- 24. Information Commissioner’s Office — *The Children’s code and education technologies (edtech)*
+- 25. Information Commissioner’s Office — *What is special category data?*
+- 26. U.S. Department of Education, Student Privacy Policy Office — *Family Educational Rights and Privacy Act (FERPA)*
+- 27. U.S. Department of Education PTAC — *Protecting Student Privacy While Using Online Educational Services: Requirements and Best Practi...
+- 28. U.S. Department of Education PTAC — *Responsibilities of Third-Party Service Providers under FERPA*
+- 29. U.S. Federal Trade Commission — *COPPA Guidance for Ed Tech Companies and Schools during the Coronavirus*
+- 30. OECD — *OECD Digital Education Outlook 2023: Towards an Effective Digital Education Ecosystem*, bölüm 8 “Data and technology governan...
+- 31. Fengchun Miao ve Wayne Holmes — *Guidance for generative AI in education and research*
+- 32. European Commission, Directorate-General for Education, Youth, Sport and Culture — *Ethical guidelines on the use of artificial intel...
+- 33. Future of Privacy Forum — *The EdTech Service Provider’s Guide to Student Privacy*
+- 34. 1EdTech Consortium — *TrustEd Apps Data Privacy Rubric*
+- 35. CNIL — *Établissements scolaires et périscolaires*
+- 36. CNIL — *Responsable de traitement : comment mettre en place des systèmes d’IA dans l’éducation ?*
+- 37. CNIL — *Délibération n° 2023-058 du 8 juin 2023 portant adoption d’une recommandation relative aux modalités de mise en œuvre des dis...
+- 38. Kişisel Verileri Koruma Kurumu — *Personal Data Protection Law No. 6698*
+- 39. KVKK — *Uzaktan Eğitim Platformları Hakkında Kamuoyu Duyurusu*
+- 40. KVKK Kurulu — *“Veri sorumlusu eğitim kurumu tarafından şikayetçinin çocuklarının özel nitelikli kişisel verilerinin hukuka aykırı ol...
+- 41. KVKK — *“KVKK Okulda Projesi” Başladı*
+- 42. Agencia Española de Protección de Datos — *Guía para centros educativos*
+- 43. Datenschutzkonferenz — *Orientierungshilfe der Datenschutzaufsichtsbehörden für Online-Lernplattformen im Schulunterricht*
+- 44. Alanın temel dergi kümesi: *British Journal of Educational Technology*, *Learning, Media and Technology*, *Ethics and Information Tec...
+- 45. Nick Couldry ve Ulises A. Mejias — *The Costs of Connection* konuşması, Harvard Berkman Klein Center
+

@@ -10,6 +10,8 @@ Yaklaşık **677 doğrulanmış kaynak**; başlıklar özgün dilinde bırakılm
 
 1. [Uzmanlaşma kaynakçası](./REFLEKTIF-UZMANLASMA-KAYNAKCASI.md) — 16 konunun yüksek kaldıraçlı seçkisi, MUST-READ 25, rahatsız edici literatür, izlenecek dergi/dernek/etkinlikler, TR/FR boşlukları, 6 aylık kurucu stratejisi
 2. [12 haftalık okuma yolu](./OKUMA-YOLU.md) — ürün yargısı için haftada en fazla 3 kaynak; her hafta bir “bunu yapmayacağız” notu
+3. [İçerik indeksi](./icerik-indeks.md) — her kaynağın çalışma dosyasındaki başlık haritası
+4. [icerik/](./icerik/) — kaynak başına içerik: resmi/açık erişim tam metin **veya** telifli eserler için eksiksiz özgün çalışma notu (tez, yöntem, sayılar, sınırlar, Reflektif çıkarımı). Telifli kitap ve ücretli makalelerin birebir kopyası yoktur.
 
 ## Konu dosyaları
 
