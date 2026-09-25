@@ -1,8 +1,6 @@
 # Eşleştirmenin Sınırları ve Karar Ortamı: Dijital Öğrenci Oryantasyonunda Psikometri, Yapay Zekâ, Kabul Rejimleri ve Veri Etiği
 
 **Alt başlık:** Kuramsal ve bütünleştirici bir tez  
-**Yazar:** Manus AI  
-**Tarih:** Eylül 2026  
 **Alan:** mesleki psikoloji / kariyer rehberliği / eğitim teknolojisi etiği
 
 Bu metin, üniversiteye teslim edilmiş bir tez değil; *reflektif-uzman* literatür külliyatına dayalı, doktora düzeyinde **kuramsal ve bütünleştirici derleme** (conceptual integrative review) biçiminde yazılmış akademik bir çalışmadır. Yeni birincil saha verisi içermez.
